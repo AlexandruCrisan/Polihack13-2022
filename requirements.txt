@@ -1,0 +1,7 @@
+Flask
+flask_cors
+boto3
+geopy
+python-dotenv
+python-google-places
+requests

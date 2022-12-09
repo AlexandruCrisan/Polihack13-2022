@@ -1,6 +1,7 @@
 from flask import Blueprint, request
 
-from adaptor.refugee_adaptor import RefugeeAdaptor
+from adapter.provider_adapter import ProviderAdapter
+from adapter.refugee_adapter import RefugeeAdapter
 from database_ops.db_users import DB_USERS
 from model.provider import Provider
 from model.refugee import Refugee
@@ -8,29 +9,45 @@ from model.refugee import Refugee
 urlUser = Blueprint('views', __name__)
 
 users_table = DB_USERS()
-ref_adaptor = RefugeeAdaptor()
 
 @urlUser.route('/users/test', methods=['GET'])
 def test():
   return "MERGE BINE"
-@urlUser.route('/users/provider/<string:id>', methods=['POST'])
-def postProvider(id: str):
+
+########################################################## General
+
+@urlUser.route('/login', methods=['GET'])
+def loginUser():
+  username = request.args.get("username")
+  password = request.args.get("password")
+  userJSON = users_table.get_user(username)
+
+  try:
+    if userJSON["password"] != password:
+      return ("Incorrect Password", 403)
+  except Exception:
+    return ("Incorrect Username", 403)
+  return (users_table.get_user(username), 200)
+
+@urlUser.route('/users/<string:username>', methods=['GET'])
+def getUser(username: str):
+  return users_table.get_user(username)
+
+########################################################## Provider
+
+@urlUser.route('/users/provider/<string:username>', methods=['POST'])
+def postProvider(username: str):
   user_json = request.json
 
-  provider_entity = Provider(id, user_json["name"], user_json["phone_number"], user_json["email"])
-  return users_table.addUser(ref_adaptor.toJson(provider_entity) )
+  provider_entity = Provider(username, user_json["password"], user_json["name"], user_json["phone_number"], user_json["email"])
+  return users_table.addUser(ProviderAdapter.toJSON(provider_entity) )
 
-@urlUser.route('/users/provider/<string:id>', methods=['GET'])
-def getProvider(id: str):
-  return users_table.get_user(id)
+########################################################## Refugee
 
-@urlUser.route('/users/refugee/<string:id>', methods=['POST'])
-def postRefugee(id: str):
+@urlUser.route('/users/refugee/<string:username>', methods=['POST'])
+def postRefugee(username: str):
   user_json = request.json
 
-  refugee_entity = Refugee(id, user_json["name"], user_json["phone_number"], user_json["nationality"], user_json["location"], user_json["skills"])
-  return users_table.addUser(RefugeeAdaptor.toJSON(refugee_entity) )
+  refugee_entity = Refugee(username, user_json["password"], user_json["name"], user_json["phone_number"], user_json["nationality"], user_json["location"], user_json["skills"])
+  return users_table.addUser(RefugeeAdapter.toJSON(refugee_entity) )
 
-@urlUser.route('/users/refugee/<string:id>', methods=['GET'])
-def getRefugee(id: str):
-  return users_table.get_user(id)

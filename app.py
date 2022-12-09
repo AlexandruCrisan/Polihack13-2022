@@ -1,6 +1,8 @@
 import flask
 from flask_cors import CORS
 
+from views.view_funcs import urlFuncs
+from views.view_homes import urlHomes
 from views.view_users import urlUser
 
 app = flask.Flask(__name__)
@@ -8,9 +10,10 @@ CORS(app)
 
 
 app.register_blueprint(urlUser, name='Proj')
+app.register_blueprint(urlFuncs, name='Funcs')
+app.register_blueprint(urlHomes, name='Homes')
 
-
-
+print("*****************************************************************************************************************************")
 
 if __name__ == "__main__":
     app.run(debug=True)

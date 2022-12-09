@@ -1,16 +1,18 @@
 from model.refugee import Refugee
 
 
-class RefugeeAdaptor():
+class RefugeeAdapter():
     def toJSON(o):
         if isinstance(o, Refugee):
             Item = {
-                'id': o.get_id(),
+                'username': o.get_username(),
+                'password': o.get_password(),
                 'name': o.get_name(),
                 'phone_number': o.get_phone_number(),
                 'nationality': o.get_nationality(),
                 'location': o.get_location(),
-                'skills': o.get_skills()
+                'skills': o.get_skills(),
+                'account_type': type(o).__name__
             }
             return Item
         return None

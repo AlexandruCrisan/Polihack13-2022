@@ -6,10 +6,10 @@ class DB_USERS():
     def __init__(self):
         self.__userTable = setup.startSetup("test-users")
 
-    def get_user(self, idOfTheUser):
+    def get_user(self, username):
         response = self.__userTable.get_item(
             Key={
-                'id': idOfTheUser
+                'username': username
             }
         )
         try:

@@ -10,7 +10,7 @@ def getNonYouTube(news_dict):
       return valid_news_articles
     print(f'{article["title"]} -> {len(article["title"].split())}')
     try:
-      if article["source"]["name"] != "YouTube" and article["urlToImage"] is not None and len(article["title"].split()) > 2:
+      if article["source"]["name"] != "YouTube" and article["urlToImage"] is not None and "reuters" not in article["urlToImage"] and len(article["title"].split()) > 2:
         news_count += 1
         valid_news_articles.append(article)
     except Exception:

@@ -45,8 +45,8 @@ def getUser(username: str):
 def postProvider(username: str):
   user_json = request.json
 
-  provider_entity = Provider(username, user_json["password"], user_json["name"], user_json["phone_number"], user_json["email"])
-  return users_table.addUser(ProviderAdapter.toJSON(provider_entity) )
+  provider_entity = Provider(username, user_json["password"], user_json["name"], user_json["phone_number"], user_json["email"], [])
+  return users_table.addUser(ProviderAdapter.toJSON(provider_entity))
 
 ########################################################## Refugee
 

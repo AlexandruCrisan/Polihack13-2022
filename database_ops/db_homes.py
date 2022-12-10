@@ -1,10 +1,12 @@
 import database_ops.setup as setup
+from database_ops.db_users import DB_USERS
 
 
 class DB_HOMES():
 
     def __init__(self):
         self.__homeTable = setup.startSetup("test-homes")
+        self.__dbUsers = DB_USERS()
 
     def get_home(self, id):
         response = self.__homeTable.get_item(
@@ -18,10 +20,17 @@ class DB_HOMES():
             return {"ErrorMessage": "Home Does not Exist"}
 
     def add_home(self, homeObjJSON):
-        response = self.__homeTable.put_item(
+        self.__homeTable.put_item(
             Item=homeObjJSON
         )
-        return response
+
+        # Add them into the provider's account
+        userJSON = self.__dbUsers.get_user(homeObjJSON["owner_username"])
+        houses = userJSON["houses"]
+
+        houses.append(homeObjJSON["id"])
+        return self.__dbUsers.updateHouses(homeObjJSON["owner_username"], houses)
+
 
     def delete_home(self, id: str):
         response = self.__homeTable.delete_item(

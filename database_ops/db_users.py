@@ -43,3 +43,19 @@ class DB_USERS():
             ReturnValues="UPDATED_NEW"
         )
         return response
+
+    def updateHouses(self, username: str, houses: list):
+        response = self.__userTable.update_item(
+            Key={
+                'username': username
+            },
+            UpdateExpression="set #h=:hou",
+            ExpressionAttributeValues={
+                ':hou': houses,
+            },
+            ExpressionAttributeNames={
+                "#h": "houses",
+            },
+            ReturnValues="UPDATED_NEW"
+        )
+        return response

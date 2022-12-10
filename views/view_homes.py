@@ -3,11 +3,13 @@ from flask import Blueprint, request
 
 from adapter.home_adapter import HomeAdapter
 from database_ops.db_homes import DB_HOMES
+from database_ops.db_users import DB_USERS
 from model.home import Home
 
 urlHomes = Blueprint('views', __name__)
 
 homes_table = DB_HOMES()
+users_table = DB_USERS()
 
 @urlHomes.route('/homes/<string:home_id>', methods=['POST'])
 def addHome(home_id: str):

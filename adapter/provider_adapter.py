@@ -11,6 +11,7 @@ class ProviderAdapter():
                 'phone_number': o.get_phone_number(),
                 'email': o.get_email(),
                 'houses': o.get_houses(),
+                'jobs': o.get_jobs(),
                 'account_type': type(o).__name__
             }
             return Item

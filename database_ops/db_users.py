@@ -59,3 +59,19 @@ class DB_USERS():
             ReturnValues="UPDATED_NEW"
         )
         return response
+
+    def updateJobs(self, username: str, jobs: list):
+        response = self.__userTable.update_item(
+            Key={
+                'username': username
+            },
+            UpdateExpression="set #j=:job",
+            ExpressionAttributeValues={
+                ':job': jobs,
+            },
+            ExpressionAttributeNames={
+                "#j": "jobs",
+            },
+            ReturnValues="UPDATED_NEW"
+        )
+        return response

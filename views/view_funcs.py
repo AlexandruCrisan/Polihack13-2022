@@ -15,6 +15,7 @@ from newsapi import NewsApiClient
 import utils as ut
 from database_ops.db_cash_bank import DB_CASH_BANK
 from database_ops.db_homes import DB_HOMES
+from database_ops.db_jobs import DB_JOBS
 from database_ops.db_users import DB_USERS
 
 urlFuncs = Blueprint('views', __name__)
@@ -29,6 +30,8 @@ google_places = GooglePlaces(MAPS_API_KEY)
 homes_table = DB_HOMES()
 bank_table = DB_CASH_BANK()
 users_table = DB_USERS()
+jobs_table = DB_JOBS()
+
 newsApi = NewsApiClient(api_key=NEWS_API_KEY)
 
 contact_mail = 'calex2005cj@gmail.com'
@@ -192,6 +195,12 @@ def sendSOS():
   mailer.sendmail(contact_mail, contact_mail2, mail.as_string())
   mailer.quit()
   return ('ok', 200)  
+
+##########################################################  See Jobs
+
+@urlFuncs.route('/all_jobs', methods=['GET'])
+def getJobs():
+  return jobs_table.get_all_jobs()
 
   
   

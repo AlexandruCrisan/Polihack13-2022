@@ -75,6 +75,11 @@ def getHomes():
     distance = geopy.distance.geodesic(c1, c2).km 
     print(f"{home['id']} -> {distance}")
     if distance <= radius and int(min_residents) <= int(home["max_residents"]):
+      home["distance"] = float(int(distance*100) / 100)
+      home["new"] = 0
+      if ut.random_between(1, 5) == 1:
+        home["new"] = 1
+
       response.append(home)
 
   return response

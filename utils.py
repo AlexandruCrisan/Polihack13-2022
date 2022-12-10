@@ -1,3 +1,9 @@
+import random
+
+
+def random_between(x, y):
+  return random.randint(x, y)
+
 # Ignores the articles from youtube
 def getNonYouTube(news_dict):
   news_count = 0

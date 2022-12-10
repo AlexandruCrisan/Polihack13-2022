@@ -1,3 +1,5 @@
+import random
+
 import geopy.distance
 from flask import Blueprint, request
 

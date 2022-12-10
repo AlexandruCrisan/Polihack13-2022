@@ -10,6 +10,8 @@ class HomeAdapter():
                 'location': {"lat": str(location["lat"]), "lng": str(location["lng"])},
                 'max_residents': o.get_max_residents(),
                 'owner_username': o.get_owner_username(),
+                'street_name': o.get_street_name(),
+                'location_image': o.get_location_image(),
             }
             return Item
         return None

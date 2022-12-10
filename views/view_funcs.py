@@ -109,15 +109,10 @@ def getDonationClothes():
 
 @urlFuncs.route('/war_news', methods=['GET'])
 def getWarNews():
-  # response = {}
-
-  # current_date = datetime.date.today()
   previous_date = datetime.date.today() - datetime.timedelta(days=7)
 
-  print(f"THEN: {previous_date}")
   news_dict = newsApi.get_everything(language='en', q="ukraine", from_param=previous_date, page_size=100)
-  # print(news_dict)
-  ut.createJSONFileLocally(json.dumps(news_dict, indent=4))
+
   nonYouTubeArticles = ut.getNonYouTube(news_dict)
   ut.removeSourceFromName(nonYouTubeArticles)
   ut.removeCharsNumber(nonYouTubeArticles)

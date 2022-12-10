@@ -1,16 +1,21 @@
 import datetime
 import json
 import os
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 
 import geopy.distance
 from dotenv import load_dotenv
 from flask import Blueprint, request
+from geopy.geocoders import Nominatim
 from googleplaces import GooglePlaces, types
 from newsapi import NewsApiClient
 
 import utils as ut
 from database_ops.db_cash_bank import DB_CASH_BANK
 from database_ops.db_homes import DB_HOMES
+from database_ops.db_users import DB_USERS
 
 urlFuncs = Blueprint('views', __name__)
 
@@ -23,7 +28,13 @@ google_places = GooglePlaces(MAPS_API_KEY)
 
 homes_table = DB_HOMES()
 bank_table = DB_CASH_BANK()
+users_table = DB_USERS()
 newsApi = NewsApiClient(api_key=NEWS_API_KEY)
+
+contact_mail = 'calex2005cj@gmail.com'
+contact_mail2 = 'adrian.iurian1@gmail.com'
+# contact_mail2 = 'calex2005cj@gmail.com'
+contact_password = 'vgvtmmgaafazrnfn'
 
 def respects_filters(home, filters):
   try:
@@ -127,6 +138,64 @@ def getWarNews():
   ut.removeUnicodeChars(nonYouTubeArticles)
 
   return nonYouTubeArticles
+
+########################################################## SOS Email
+
+@urlFuncs.route('/sos', methods=['POST'])
+def sendSOS():
+  email_type = request.args.get("type")
+  lat = request.args.get("lat")
+  lng = request.args.get("lng")
+
+  username = request.args.get("username")
+
+  geoLoc = Nominatim(user_agent="GetLoc")
+  locname = geoLoc.reverse(f"{lat}, {lng}")
+
+  # print(locname.address)
+
+  if email_type == 1:
+    user_json = users_table.get_user(username)
+
+    mail = MIMEMultipart("alternative")
+    mail['Subject'] = f"{user_json['name']} ({username}) issued SOS feature"
+    mail['From'] = contact_mail
+    mail['To'] = contact_mail2
+
+    message = f"Last known location: {locname}"
+#   Category: {dataJSON["category"]}
+
+    mail.attach(MIMEText(message))
+
+    mailer = smtplib.SMTP('smtp.gmail.com',587)
+    mailer.starttls()
+    mailer.login(contact_mail, contact_password)
+    mailer.sendmail(contact_mail, contact_mail2, mail.as_string())
+    mailer.quit()
+    return ('ok', 200)
+
+  user_json = users_table.get_user(username)
+  message = request.args.get("message")
+
+  mail = MIMEMultipart("alternative")
+  mail['Subject'] = f"{user_json['name']} ({username}) information follow up"
+  mail['From'] = contact_mail
+  mail['To'] = contact_mail2
+
+  # message = f"Last known location: {locname}"
+
+  mail.attach(MIMEText(message))
+
+  mailer = smtplib.SMTP('smtp.gmail.com',587)
+  mailer.starttls()
+  mailer.login(contact_mail, contact_password)
+  mailer.sendmail(contact_mail, contact_mail2, mail.as_string())
+  mailer.quit()
+  return ('ok', 200)  
+
+  
+  
+
 
 
   

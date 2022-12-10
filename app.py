@@ -1,5 +1,6 @@
 import flask
 from flask_cors import CORS
+from geopy.geocoders import Nominatim
 
 from views.view_funcs import urlFuncs
 from views.view_homes import urlHomes
@@ -14,6 +15,11 @@ app.register_blueprint(urlFuncs, name='Funcs')
 app.register_blueprint(urlHomes, name='Homes')
 
 print("*****************************************************************************************************************************")
+
+# geolocator = Nominatim(user_agent="geoapiExercises")
+# address = geolocator.reverse("46.7664913,23.5920942")
+# address = address.raw["address"]
+# print(address)
 
 if __name__ == "__main__":
     app.run(debug=True)

@@ -17,7 +17,7 @@ class Home:
     geolocator = Nominatim(user_agent="geoapiExercises")
     address = geolocator.reverse(str(self.__location["lat"])+", "+ str(self.__location["lng"]))
     address = address.raw["address"]
-    self.__street_name = address.get('road', '')
+    self.__street_name = f"{address.get('road', '')} {address.get('house_number')}, {address.get('city')}"
 
     url = f"https://maps.googleapis.com/maps/api/streetview/metadata?size=400x400&location={str(self.__location['lat'])},{str(self.__location['lng'])}&key={MAPS_API_KEY}"
     response = urlopen(url)

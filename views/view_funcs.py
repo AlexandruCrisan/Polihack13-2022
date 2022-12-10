@@ -80,6 +80,9 @@ def getHomes():
       if ut.random_between(1, 5) == 1:
         home["new"] = 1
 
+      without_comma = home["street_name"].replace(',', '')
+      home["google_maps"] = f"https://www.google.com/maps/place/{without_comma.replace(' ', '+')}/@{str(home['location']['lat'])},{str(home['location']['lng'])}"
+
       response.append(home)
 
   return response

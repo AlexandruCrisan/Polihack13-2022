@@ -2,13 +2,20 @@
 def getNonYouTube(news_dict):
   news_count = 0
   valid_news_articles = []
+  # print(news_dict[0])8
   for article in news_dict["articles"]:
+    # print(article)
     if len(valid_news_articles) == 20:
       print("20 news found")
       return valid_news_articles
-    if article["source"]["name"] != "YouTube":
-      news_count += 1
-      valid_news_articles.append(article)
+    print(f'{article["title"]} -> {len(article["title"].split())}')
+    try:
+      if article["source"]["name"] != "YouTube" and article["urlToImage"] is not None and len(article["title"].split()) > 2:
+        news_count += 1
+        valid_news_articles.append(article)
+    except Exception:
+      print("EXCEPTION")
+      pass
   print(f"{news_count} news found")
   return valid_news_articles
 

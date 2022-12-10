@@ -62,7 +62,7 @@ def getHomes():
   lat = request.args.get("lat")
   lng = request.args.get("lng")
   radius = int(request.args.get("radius"))
-
+  
   min_residents = request.args.get("min_residents")
 
   all_homes = homes_table.get_all_homes()
@@ -114,7 +114,7 @@ def getWarNews():
   news_dict = newsApi.get_everything(language='en', q="ukraine", from_param=previous_date, page_size=100)
 
   nonYouTubeArticles = ut.getNonYouTube(news_dict)
-  ut.removeSourceFromName(nonYouTubeArticles)
+  # ut.removeSourceFromName(nonYouTubeArticles)
   ut.removeCharsNumber(nonYouTubeArticles)
   ut.removeUnicodeChars(nonYouTubeArticles)
 

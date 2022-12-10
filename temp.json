@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 46196,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "Russia\u2019s New Cyberwarfare in Ukraine Is Fast, Dirty, and Relentless",
+            "description": "Security researchers see updated tactics and tools\u2014and a tempo change\u2014in the cyberattacks Russia\u2019s GRU military intelligence agency is inflicting on Ukraine.",
+            "url": "https://www.wired.com/story/russia-ukraine-cyberattacks-mandiant/",
+            "urlToImage": "https://media.wired.com/photos/636c1f9b946c8d2e21dfa6fc/191:100/w_1280,c_limit/security-russia-cyberwarfare-fast-dirty-GettyImages-1399271510.jpg",
+            "publishedAt": "2022-11-10T15:15:56Z",
+            "content": "Since Russia launched its catastrophic full-scale invasion of Ukraine in February, the cyberwar that it has long waged against its neighbor has entered a new era tooone in which Russia has at times s\u2026 [+4424 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: How Ukraine restores power after Russian attacks",
+            "description": "Engineers are starting to rebuild infrastructure destroyed during Russia's occupation of Kherson.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63746304",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14740/production/_127767738_9173d0df-939f-4770-bc5a-b73511ea364c.jpg",
+            "publishedAt": "2022-11-24T17:19:23Z",
+            "content": "There is a business-like synchronisation to Andrii's Kysenko's team as they work on a downed electricity cable in the rural Kherson region.\r\nWith a crater only a few metres from the pylon, they're co\u2026 [+3472 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "SpaceX almost doubles its current Starlink prices in Ukraine",
+            "description": "The price of a Starlink satellite terminal has almost doubled in Ukraine following increased demand for the SpaceX satellite devices and targeted Russian attacks that have caused communications networks to fail.",
+            "url": "https://www.theverge.com/2022/11/30/23486264/spacex-increases-starlink-prices-ukraine-russia-invasion",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/f0W-oyBXkW79BJcV53-_6g--30U=/0x0:2048x1365/1200x628/filters:focal(1084x627:1085x628)/cdn.vox-cdn.com/uploads/chorus_asset/file/24244316/ezgif_4_6149c498bb.jpg",
+            "publishedAt": "2022-11-30T18:53:19Z",
+            "content": "The price of Starlink terminals in Ukraine will increase from the equivalent of $385 to about $700. | Image: Oleksandr Ratushniak/Reuters\r\n\n \n\n The price of a Starlink satellite terminal has almost d\u2026 [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Google\u2019s Year in Search 2022 was dominated by Wordle, Ukraine and a cricket World Cup",
+            "description": "Wordle topped Google's Year in Search for 2022, beating even the biggest events in the world over the past few months. Searches for the five-letter word game peaked shortly after it was acquired byThe New York Times in February, perhaps when people had to loo\u2026",
+            "url": "https://www.engadget.com/google-year-in-search-2022-123501384.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/577d8550-7618-11ed-beff-d7fb50e00414",
+            "publishedAt": "2022-12-07T12:35:01Z",
+            "content": "Wordle topped Google's Year in Search for 2022, beating even the biggest events in the world over the past few months. Searches for the five-letter word game peaked shortly after it was acquired byTh\u2026 [+2436 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Billionaire Andrew Forrest launches $25bn fund for reconstruction",
+            "description": "Andrew Forrest's Ukraine Green Growth Initiative aims to replace destroyed infrastructure.",
+            "url": "https://www.bbc.co.uk/news/business-63657350",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7C3E/production/_127660813_gettyimages-1244494797.jpg",
+            "publishedAt": "2022-11-17T03:38:47Z",
+            "content": "Australian mining billionaire Andrew Forrest has launched a fund that is hoped to be worth at least $25bn (\u00a321bn) to help rebuild war-torn Ukraine.\r\nMr Forrest and his wife have committed $500m to th\u2026 [+2501 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Germany looks to renewables after Russian invasion",
+            "description": "Russia's invasion of Ukraine has crystallised the need for clean, renewable energy in Germany.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63659825",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/48A5/production/_127679581_magdalenagroll-zieglmeierandrichardzieglmeier.jpg",
+            "publishedAt": "2022-11-21T02:40:34Z",
+            "content": "As Germany struggles with the energy crisis sparked by the Russian invasion of Ukraine, many communities there are looking with added urgency at ways to try to wean themselves off gas and oil. Abensb\u2026 [+4852 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine: We will not negotiate with war criminals",
+            "description": "Prosecutor-General Andriy Kostin dismisses reports that Ukraine could negotiate with Russia.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63586227",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA49/production/_127598674_12a270c4-0436-40a5-9538-af16f0dbe313.jpg",
+            "publishedAt": "2022-11-11T05:57:44Z",
+            "content": "Ukraine is not considering negotiations with Russia to end the war, its top prosecutor has told the BBC.\r\nUS media recently claimed that American officials had encouraged Ukraine's leaders to soften \u2026 [+2137 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Banksy uses Ukraine as a canvas",
+            "description": "The footage shows the anonymous British artist working around Kyiv - but never reveals his face.",
+            "url": "https://www.bbc.co.uk/news/av/world-europe-63686223",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7331/production/_127698492_gettyimages-1244719948-594x594.jpg",
+            "publishedAt": "2022-11-19T02:01:28Z",
+            "content": "The anonymous British artist, Banksy, has released video footage of his artwork in Ukraine.\r\nThe works feature people doing daily tasks against war-torn buildings in Hostomel, Horenka and Borodyanka.\u2026 [+328 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Moldova braces for blackouts",
+            "description": "Residents say they are already struggling to cope with soaring energy prices and inflation.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63792499",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EDA9/production/_127814806_moldova1.png",
+            "publishedAt": "2022-11-29T12:54:48Z",
+            "content": "Moldovans have been warned of rolling power blackouts, as this small nation prepares for the impact of Russian missile strikes in neighbouring Ukraine. \r\nBecause of the way power infrastructure was b\u2026 [+5001 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Russians kept in the dark by internet search",
+            "description": "Why users of Russia's top search engine are unlikely to get to the truth about the war in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63246153",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/175BC/production/_127567659_msocow_metro_devices_afpgetty.jpg",
+            "publishedAt": "2022-11-11T02:07:12Z",
+            "content": "In many places, searching the web is a gateway to a wider world of information, but in Russia, it is part of a system that helps trap people in an alternate reality.\r\nShortly after 20 people were kil\u2026 [+8170 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Olena Zelenska: We will endure",
+            "description": "Olena Zelenska tells the BBC that cold and blackouts are not the worst things Ukraine has faced.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63743657",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73C5/production/_127773692_olenazelenska_getty.jpg",
+            "publishedAt": "2022-11-24T23:11:08Z",
+            "content": "Ukrainian first lady Olena Zelenska tells the BBC that Ukraine will endure this coming winter despite the cold and the blackouts caused by Russian missiles, and will keep fighting what she describes \u2026 [+8788 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Celebration in Kherson - but war 'far from over'",
+            "description": "Jubilant scenes are continuing after Ukraine took back the city of Kherson from Russia.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63607568",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11063/production/_127613796_mediaitem127613795.jpg",
+            "publishedAt": "2022-11-12T16:55:46Z",
+            "content": "Media caption, Footage from social media shows a Ukrainian soldier shouting \"Greetings from Kherson\"\r\nUkrainian officials have warned \"the war is not over\" after Russia's withdrawal from Kherson, eve\u2026 [+4550 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Were Russian soldiers shot after surrendering?",
+            "description": "Video has emerged that Russia says shows the killing of their surrendering troops in eastern Ukraine.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63676446",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/184FB/production/_127697599_soldierpointinggun.jpg",
+            "publishedAt": "2022-11-18T22:09:57Z",
+            "content": "A video has emerged from the front line in eastern Ukraine showing the surrender of a group of soldiers in an incident that appears to end in their deaths.\r\nRussia has reacted to the footage, accusin\u2026 [+4311 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Wagner chief Prigozhin defends brutal killing video",
+            "description": "Putin ally Yevgeny Prigozhin says a defector to Ukraine died \"a dog's death for a dog\".",
+            "url": "https://www.bbc.co.uk/news/world-europe-63623285",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A2C8/production/_127627614_2022-11-1319.26.33.png",
+            "publishedAt": "2022-11-14T13:33:34Z",
+            "content": "The head of private Russian military group Wagner has defended a brutal video apparently showing the death of a mercenary who defected to Ukraine.\r\nPutin ally Yevgeny Prigozhin said unverified footag\u2026 [+2411 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Zaporizhzhia strike kills newborn baby at Ukraine hospital",
+            "description": "Missiles hit a maternity unit in the southern Zaporizhzhia region, killing a two-day-old baby.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63727260",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA05/production/_127750046_vilnyanskrubblereuters.jpg",
+            "publishedAt": "2022-11-23T10:10:04Z",
+            "content": "A newborn baby has been killed in a Russian missile strike on a maternity unit in Ukraine's southern Zaporizhzhia region, emergency services say.\r\nThe baby's mother, who was the only woman in the fac\u2026 [+1966 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Poland missile strike reveals Nato divisions",
+            "description": "James Landale on what different responses to the missile deaths in Poland say about Nato.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63651154",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F64F/production/_127655036_poland.jpg",
+            "publishedAt": "2022-11-16T13:32:09Z",
+            "content": "Responsibility for the missile strike in Poland is still being established. \r\nBut the way countries responded to the incident before the facts were known was revealing. \r\nUkraine was swift to blame R\u2026 [+1846 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine: Zelensky tells G20 leaders \u2018war must end now\u2019",
+            "description": "The Ukrainian leader appears virtually at the Bali summit, where Vladimir Putin is noticeably absent.",
+            "url": "https://www.bbc.co.uk/news/world-asia-63632161",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA8F/production/_127636634_gettyimages-1244788380.jpg",
+            "publishedAt": "2022-11-15T05:45:19Z",
+            "content": "Ukrainian President Volodymyr Zelensky told world leaders at the G20 Bali summit that Russia's war must end now.\r\nHe also pleaded for an extension of a significant grain export deal due to expire soo\u2026 [+1334 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Viktor Orban 'Greater Hungary' scarf angers Romania and Ukraine",
+            "description": "Neighbours protest after Hungary's nationalist PM wore a scarf showing his country much expanded.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63724710",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5824/production/_127746522_mediaitem127746521.jpg",
+            "publishedAt": "2022-11-22T23:17:04Z",
+            "content": "Hungary's nationalist Prime Minister Viktor Orban has angered his country's eastern neighbours Romania and Ukraine by wearing a football scarf adorned with a map of an expanded Hungary.\r\nThe image re\u2026 [+1870 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: 6 million without power as winter bites",
+            "description": "Blackouts continue across most regions after missile strikes earlier this week, according to President Volodymyr Zelensky.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63764445",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147A6/production/_127787838_gettyimages-1245064485.jpg",
+            "publishedAt": "2022-11-26T01:33:39Z",
+            "content": "Ukraine's president says six million Ukrainian households are still without power, after massive missile strikes hit the country this week.\r\n\"As of this evening, blackouts continue in most regions an\u2026 [+2234 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Millions of lives under threat in Ukraine this winter - WHO",
+            "description": "Millions are at risk as winter sets in as many are without power, a WHO official warns.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63708223",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1DC7/production/_127732670_mediaitem127732666.jpg",
+            "publishedAt": "2022-11-21T17:53:12Z",
+            "content": "The lives of millions will be under threat in Ukraine this winter, the World Health Organization says. \r\nHalf of Ukraine's energy infrastructure is either damaged or destroyed, and 10 million are cur\u2026 [+3213 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Facing a harsh winter on the front line",
+            "description": "With no power or running water, the few remaining residents of Avdiivka have been urged to leave.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63730419",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E0BF/production/_127753575_mediaitem127753574.jpg",
+            "publishedAt": "2022-11-25T13:12:42Z",
+            "content": "Media caption, WATCH: Residents in Avdiivka live without running water, heating or electricity.\r\nUkraine's energy infrastructure has come under attack from Russia once again this week, leaving millio\u2026 [+4869 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Russian activist writes letters from jail",
+            "description": "Russian activist Vladimir Kara-Murza, charged with treason, writes to the BBC from his jail cell.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63597097",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/71CA/production/_127603192_gettyimages-1243866122.jpg",
+            "publishedAt": "2022-11-14T00:38:36Z",
+            "content": "When Vladimir Kara-Murza announced he was returning to Moscow earlier this year, his wife Evgenia knew the risk but did not try to stop him. \r\nRussia had invaded Ukraine and made it a crime to call i\u2026 [+9391 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war round-up: Torture claims and MH17 convictions",
+            "description": "Russia hits energy facilities again, as a Moscow-backed group is found guilty of downing a jet in 2014.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63666554",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1311B/production/_127670187_gettyimages-1244849760.jpg",
+            "publishedAt": "2022-11-17T19:41:41Z",
+            "content": "Media caption, Watch: Dashcam footage shows near-miss blast for Ukrainian driver\r\nUkraine has once again come under heavy bombardment from Russia - just two days after Moscow unleashed some of its la\u2026 [+3906 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Kyiv attacked as world leaders meet at G20",
+            "description": "Kyiv has been attacked by missiles, the city's mayor says, as world leaders condemn Russia's invasion of Ukraine",
+            "url": "https://www.bbc.co.uk/news/world-europe-63638859",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-11-15T13:43:19Z",
+            "content": "Russia has launched an attack on the Ukrainian capital of Kyiv, with explosions heard and smoke seen rising. \r\nTwo residential buildings in the central Pechersk district were among those hit, accordi\u2026 [+596 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "MH17: Ukraine plane crash murder trial draws to a close",
+            "description": "The trial over the deaths of 298 people on board a jet shot down over Ukraine is finally ending.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63637625",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2C79/production/_127658311_elsemiek.jpg",
+            "publishedAt": "2022-11-17T00:40:48Z",
+            "content": "In 2014 a passenger jet was shot down over eastern Ukraine, killing all 298 people on board. Today judges at a high security court near Schiphol Airport will deliver a verdict on three Russians and o\u2026 [+6271 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tim Lister, Julia Kesaieva, Sarah Dean",
+            "title": "Ukraine claims some Russian units are withdrawing from Zaporizhzhia",
+            "description": "Some Russian troops are withdrawing from their positions in Ukraine's southern region of Zaporizhzhia, according to Kyiv.",
+            "url": "https://www.cnn.com/2022/12/02/europe/russia-troops-withdrawing-zaporizhzhia-claims-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202101426-01-zaporizhzhia-file-112622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-02T12:18:19Z",
+            "content": "Some Russian troops are withdrawing from their positions in Ukraines southern region of Zaporizhzhia, according to Kyiv. \r\nRussian units have left the settlements of Mykhailivka, Polohy and Inzhenern\u2026 [+2651 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Russia denies responsibility for Poland blast",
+            "description": "Two people are killed in a missile strike in Poland, with Moscow and Kyiv trading blame over the blast.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63640344",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B56C/production/_127644464_plumeofsmoke.jpg",
+            "publishedAt": "2022-11-16T04:23:37Z",
+            "content": "US President Joe Biden has said it is \"unlikely\" that a missile that killed two people in Poland on Tuesday was fired from Russia.\r\nPolish officials said the \"Russian-made missile\" landed in Przewodo\u2026 [+4012 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: The men who bring back the dead",
+            "description": "Artur and Denys bring dignity to victims of the war - both friend and foe.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63627345",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D1DB/production/_127632735_221019_donbas_cargo200bodycollectors_012.jpg",
+            "publishedAt": "2022-11-18T00:08:38Z",
+            "content": "This article contains details some readers may find distressing.\r\nArtur describes his job as bringing the dead back from oblivion.\r\nHe and Denys, two young Ukrainian men, have the grim task of retrie\u2026 [+4349 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Celebrations as Kyiv takes back key city Kherson",
+            "description": "An official says Ukraine's troops are \"almost fully in control\" after Russia completed its retreat.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63601312",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F2F/production/_127611718_celebrategetty.jpg",
+            "publishedAt": "2022-11-11T19:50:48Z",
+            "content": "Ukrainian soldiers have been welcomed into Kherson by jubilant residents, after Russia said it had fully withdrawn from the key southern city. \r\nVideo showed locals on the streets, flying Ukraine's n\u2026 [+4347 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Chornobaivka airbase, symbol of Russian defeat",
+            "description": "Chornobaivka has earned its status as one of the most important battlefields of the war.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63754797",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10A7C/production/_127802286_airport.jpg",
+            "publishedAt": "2022-11-29T00:37:33Z",
+            "content": "From the start of the war, a military airfield and village just outside Kherson city achieved legendary status in Ukraine. Captured by Russian forces within days of Russia's full-scale invasion in Fe\u2026 [+5035 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: We will rebuild, vows mayor of flattened Mariupol",
+            "description": "The key city is occupied by Russia - but the exiled Ukrainian mayor is still making plans.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63694707",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D458/production/_127706345_9b148d1fdeb63dc9ad1eb8f6ac525be10b27f1a2.jpg",
+            "publishedAt": "2022-11-20T12:55:26Z",
+            "content": "Vadym Boychenko is under no illusions. The Russians, says the mayor of Mariupol, will never leave the city voluntarily. \r\nBut the Ukrainian Army, he adds, will expel them.\r\nIn fact, he is so confiden\u2026 [+3283 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Germany wary of new influx of refugees",
+            "description": "As winter sets in, there are warnings that some communities cannot cope with more arrivals.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63792498",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9197/production/_127817273_4d6ba531b52343f70f5cb3f5714e4724bedf23b50_184_5500_30941000x563.jpg",
+            "publishedAt": "2022-11-30T02:17:05Z",
+            "content": "On an old airfield, on the outskirts of Berlin, almost 1,000 people sleep in giant heated tents. The German capital is struggling to properly house Ukraine's refugees. \r\nAnd, as winter deepens and Ru\u2026 [+4124 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Letter bomb at Ukraine's Spain embassy injures employee",
+            "description": "Ukrainian embassies have been ordered to increase security after a security guard was injured.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63812148",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1C05/production/_127837170_45c11e8f-1535-4f9f-8853-393d6d5e1adf.jpg",
+            "publishedAt": "2022-11-30T16:32:13Z",
+            "content": "An employee of the Ukrainian embassy in Madrid has been lightly injured while opening a letter bomb, Ukrainian and Spanish officials say.\r\nThe male employee was taken to hospital for treatment but \"h\u2026 [+1521 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Two generations share bed after Russian strikes",
+            "description": "Sofia lives in cramped conditions with her boyfriend and his mother after strikes destroyed their home.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63850875",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13144/production/_127884187_mediaitem127884186.jpg",
+            "publishedAt": "2022-12-04T18:29:11Z",
+            "content": "Sofia kneels in the corner of the room, making herself as small as possible. Space, or the complete lack of it, is now the constant constraint in her life.\r\nThe 19-year-old is living in one single ro\u2026 [+4516 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Kyiv claims major gains as Russia exits Kherson",
+            "description": "Kyiv reports rapid advances of seven kilometres after Moscow said it would leave the key city.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63589297",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12AC9/production/_127598467_537cc7c841a1733095f84299e9a1b966aa928feb0_482_5926_33331000x563.jpg",
+            "publishedAt": "2022-11-10T17:52:09Z",
+            "content": "The Ukrainian army says it has made major gains over the last day around Kherson, after Russia said it was withdrawing from the southern city.\r\nUkrainian troops say they have taken back the key town \u2026 [+3482 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Can we expect peace talks to begin?",
+            "description": "Joe Biden says he is willing to sit down with Vladimir Putin, but when might peace talks take place?",
+            "url": "https://www.bbc.co.uk/news/world-europe-63838215",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/108D4/production/_127869776_annotation2022-12-02152047.png",
+            "publishedAt": "2022-12-02T15:34:09Z",
+            "content": "What does it mean when US President Joe Biden says he's willing to sit down with Vladimir Putin \"to see what he has in mind\"; or when German Chancellor Olaf Scholz conducts an hour-long phone call wi\u2026 [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amy Woodyatt, Sebastian Shukla, Nimi Princewill",
+            "title": "Ukrainian President Volodymyr Zelensky is named TIME magazine's person of the year",
+            "description": "TIME magazine has named Volodymyr Zelensky, the Ukrainian leader whose attempt to fight off Russia's invasion of his country has won widespread acclaim, as its person of the year, alongside \"the spirit of Ukraine.\"",
+            "url": "https://www.cnn.com/2022/12/07/europe/zelensky-time-person-year-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221207081056-01-zelensky-time-person-of-the-year.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-07T14:10:23Z",
+            "content": "TIME magazine has named Volodymyr Zelensky, the Ukrainian leader whose attempt to fight off Russias invasion of his country has won widespread acclaim, as its person of the year, alongside the spirit\u2026 [+2032 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jessie Yeung, Katharina Krebs",
+            "title": "Ukraine war is going to 'take a while,' Putin says as he warns nuclear risk is increasing",
+            "description": "Nearly 10 months after his invasion of Ukraine began, Russian President Vladimir Putin on Wednesday acknowledged that the conflict is \"going to take a while,\" as he also warned of the \"increasing\" threat of nuclear war.",
+            "url": "https://www.cnn.com/2022/12/07/europe/putin-ukraine-russia-nuclear-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221207190808-putin-1205.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-08T05:01:09Z",
+            "content": "Nearly 10 months after his invasion of Ukraine began, Russian President Vladimir Putin on Wednesday acknowledged that the conflict is going to take a while, as he also warned of the increasing threat\u2026 [+4629 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Julia Buckley, CNN",
+            "title": "AN-225: Plans to rebuild world's largest plane confirmed",
+            "description": "For avgeeks, the destruction of the world's largest commercial plane was one of the key images at the start of Russia's invasion of Ukraine. In February, the Antonov AN-225 was attacked at its base in Hostomel, near Kyiv.",
+            "url": "https://www.cnn.com/travel/article/antonov-an225-mriya-rebuild-2022/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/221109111455-02-antonov-an-225-super-tease.jpg",
+            "publishedAt": "2022-11-09T11:48:14Z",
+            "content": "(CNN) For avgeeks, the destruction of the world's largest commercial plane was one of the key images at the start of Russia's invasion of Ukraine. In February, the Antonov AN-225 was attacked at its \u2026 [+3374 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Factbox: What is the S-300 missile that is reported to have hit Poland? - Reuters.com",
+            "description": "Poland has said the missile that hit a grain facility on Tuesday, killing two people near the border with Ukraine, was probably an <a href=\"/world/europe/ukraine-hails-chinas-opposition-nuclear-threats-2022-11-15/\">\"old\" S-300 rocket</a>, a Soviet-era missile\u2026",
+            "url": "https://www.reuters.com/world/europe/what-is-s-300-missile-that-is-reported-have-hit-poland-2022-11-16/",
+            "urlToImage": "https://www.reuters.com/resizer/HIzifFWfDxz-sW5lZ-uB8zRqxg4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/A2L6UNDWVNKYVERDBTD7LSZQNQ.jpg",
+            "publishedAt": "2022-11-16T14:15:00Z",
+            "content": "Nov 16 (Reuters) - Poland has said the missile that hit a grain facility on Tuesday, killing two people near the border with Ukraine, was probably an \"old\" S-300 rocket, a Soviet-era missile system b\u2026 [+2648 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine to protest over Orban scarf showing Hungary including part of Ukraine - Reuters",
+            "description": "Ukraine will summon the Hungarian ambassador to protest that Prime Minister Viktor Orban went to a football match in a scarf depicting some Ukrainian territory as part of Hungary, the Ukrainian foreign ministry said on Tuesday.",
+            "url": "https://www.reuters.com/world/europe/ukraine-protest-over-orban-scarf-showing-hungary-including-part-ukraine-2022-11-22/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120",
+            "publishedAt": "2022-11-22T10:34:13Z",
+            "content": "KYIV, Nov 22 (Reuters) - Ukraine will summon the Hungarian ambassador to protest that Prime Minister Viktor Orban went to a football match in a scarf depicting some Ukrainian territory as part of Hun\u2026 [+401 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia's war on Ukraine latest news: Ukraine gradually restores power - Reuters",
+            "description": "Ukrainian authorities are gradually restoring power, aided by the reconnection of the country's four nuclear plants, but millions of people are still without <a href=\"/world/europe/ukraine-setting-up-invincibility-centres-help-provide-heat-water-2022-11-22/\">\u2026",
+            "url": "https://www.reuters.com/world/europe/russias-war-ukraine-latest-news-ukraine-gradually-restores-power-2022-11-26/",
+            "urlToImage": "https://www.reuters.com/resizer/lsq8SAPVjWEqjLXcjM7sTcGTB_I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IZMCATFOEFPH5DRUZDTULGUTAU.jpg",
+            "publishedAt": "2022-11-26T05:29:10Z",
+            "content": "Nov 26 (Reuters) - Ukrainian authorities are gradually restoring power, aided by the reconnection of the country's four nuclear plants, but millions of people are still without heat or electricity af\u2026 [+2288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff and agencies",
+            "title": "Russia-Ukraine war at a glance: what we know on day 272 of the invasion",
+            "description": "Ukraine evacuates civilians from Kherson; repeated shelling of Zaporizhzhia nuclear plant <ul><li>See all our Ukraine coverage</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/2022/nov/22/russia-ukraine-war-at-a-glance-what-we-know-on-day-272-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/4a69c1c6497eb41ae744cf4aaf92cb6f439313c4/0_227_6956_4173/master/6956.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c792c97928ba41d33acb6cac083997c",
+            "publishedAt": "2022-11-22T00:37:32Z",
+            "content": "<li>Ukraine is to evacuate civilians from recently liberated areas of the Kherson and Mykolaiv regions. Residents of the two southern regions have been advised to move to safer areas in the central a\u2026 [+3601 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Putin tells Russian soldiers' mothers he shares their pain",
+            "description": "Given the scale of destruction from Russia's invasion, his words are certain to infuriate Ukrainians.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63760278",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/298E/production/_127783601_mediaitem127783600.jpg",
+            "publishedAt": "2022-11-25T16:37:47Z",
+            "content": "\"We share your pain,\" Russian President Vladimir Putin has told a group of mothers of Russian soldiers who have been fighting - and some of whom have been killed - in Ukraine.\r\n\"Nothing can replace t\u2026 [+3329 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Animal eye packages sent to six embassies across Europe",
+            "description": "Ukraine's foreign ministry said a false bomb threat was made to another embassy in Kazakhstan.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63834667",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FBD2/production/_127866446_gettyimages-931278310.jpg",
+            "publishedAt": "2022-12-02T12:25:42Z",
+            "content": "Parcels containing animal eyes have been sent to six Ukrainian embassies in Europe, its foreign ministry says.\r\nSpokesman Oleg Nikolenko said the \"blood-soaked\" packages were found in Hungary, Italy,\u2026 [+2258 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Biden sees 'real problems' for Russia after Kherson retreat order",
+            "description": "Russia is retreating from Kherson, the only regional capital it captured during the invasion.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63578919",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/45C1/production/_127575871_sevepa.jpg",
+            "publishedAt": "2022-11-09T23:28:14Z",
+            "content": "US President Joe Biden has said Russia's decision to withdraw from the Ukrainian city of Kherson shows its military has \"some real problems\".\r\nMr Biden said he had been expecting the move for \"some t\u2026 [+3933 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war round-up: Missile blast in Poland and Zambian family's grief",
+            "description": "Investigations continue into a missile blast in Poland and a Zambian family mourn a death in the war.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63656671",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17706/production/_127660069_epapoland.jpg",
+            "publishedAt": "2022-11-16T22:18:42Z",
+            "content": "Media caption, Watch: We agree missile likely from Ukraine air defence, says Nato chief\r\nThe aftermath of what may have been Russia's biggest missile attack on Ukraine to date is dominated internatio\u2026 [+2868 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine builds wall on border with Belarus - presidential adviser - Reuters",
+            "description": "Ukraine said on Friday it was building a reinforced concrete wall and other fortifications on its border with Belarus, a close Kremlin ally that Moscow used as a staging ground for its Feb. 24 invasion of Ukraine.",
+            "url": "https://www.reuters.com/world/europe/ukraine-builds-wall-border-with-belarus-presidential-adviser-2022-11-11/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120",
+            "publishedAt": "2022-11-11T17:59:00Z",
+            "content": "KYIV, Nov 11 (Reuters) - Ukraine said on Friday it was building a reinforced concrete wall and other fortifications on its border with Belarus, a close Kremlin ally that Moscow used as a staging grou\u2026 [+937 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Units shut down at Ukraine's Pivdennoukrainsk nuclear power plant - Energoatom - Reuters",
+            "description": "A number of units were shut down at the Pivdennoukrainsk nuclear power plant in southern Ukraine on Wednesday because of a loss of power during Russian air strikes across Ukraine, Ukraine's nuclear energy firm Energoatom said.",
+            "url": "https://www.reuters.com/world/europe/units-shut-down-ukraines-pivdennoukrainsk-nuclear-power-plant-energoatom-2022-11-23/",
+            "urlToImage": "https://www.reuters.com/resizer/hZVP4Y1ygyssXmw8iEBp9ZOwcm4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ILMUUOBK7RMKDMPEO5ZEMVYBQ4.jpg",
+            "publishedAt": "2022-11-23T13:41:00Z",
+            "content": "KYIV, Nov 23 (Reuters) - A number of units were shut down at the Pivdennoukrainsk nuclear power plant in southern Ukraine on Wednesday because of a loss of power during Russian air strikes across Ukr\u2026 [+607 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. general plays down odds of near-term military victory in Ukraine - Reuters.com",
+            "description": "The top U.S. general on Wednesday played down the odds of any near-term, outright military victory by Ukraine, cautioning that Russia still had significant combat power inside of Ukraine despite suffering military setbacks in its invasion.",
+            "url": "https://www.reuters.com/world/europe/us-general-plays-down-odds-near-term-military-victory-ukraine-2022-11-16/",
+            "urlToImage": "https://www.reuters.com/resizer/1cCysCxQb3Cy71BBjqjSkzJNHVQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7EPRDXF2XRIATE2S6RVNAOO4EI.jpg",
+            "publishedAt": "2022-11-16T19:03:00Z",
+            "content": "WASHINGTON, Nov 16 (Reuters) - The top U.S. general on Wednesday played down the odds of any near-term, outright military victory by Ukraine, cautioning that Russia still had significant combat power\u2026 [+680 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "How the Biden White House scrambled after Poland missile blast - Reuters.com",
+            "description": "President Joe Biden has been adamant that the United States will back Ukraine in its nine-month fight to repel a Russian invasion. But he has insisted, \"we will not fight the Third World War in Ukraine.\"",
+            "url": "https://www.reuters.com/world/us/how-biden-white-house-scrambled-after-poland-missile-blast-2022-11-18/",
+            "urlToImage": "https://www.reuters.com/resizer/pHGorsN2B6xriVMNvIWEDWPz55I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AP5UVVBKERLVZLCCYHZ34M2QFM.jpg",
+            "publishedAt": "2022-11-18T20:13:00Z",
+            "content": "WASHINGTON, Nov 18 (Reuters) - President Joe Biden has been adamant that the United States will back Ukraine in its nine-month fight to repel a Russian invasion. But he has insisted, \"we will not fig\u2026 [+5685 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "World Bank financing arm IFC will discuss $2 bln Ukraine package in December - Reuters",
+            "description": "The World Bank's private investment arm will discuss a $2 bln support package for Ukraine at a board meeting in December, Lisa Kaestner, regional manager for Ukraine at the International Finance Corp (IFC) said on Thursday.",
+            "url": "https://www.reuters.com/business/finance/world-bank-financing-arm-ifc-will-discuss-2-bln-ukraine-package-december-2022-11-17/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=120",
+            "publishedAt": "2022-11-17T10:34:00Z",
+            "content": "LONDON, Nov 17 (Reuters) - The World Bank's private investment arm will discuss a $2 bln support package for Ukraine at a board meeting in December, Lisa Kaestner, regional manager for Ukraine at the\u2026 [+842 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kylie Atwood",
+            "title": "Former US President George W. Bush to hold public conversation with Ukrainian President Zelensky next week",
+            "description": "Former US President George W. Bush will hold a public conversation with Ukrainian President Volodymyr Zelensky next week with the aim of underscoring the importance of the US continuing to support Ukraine's war effort against Russia.",
+            "url": "https://www.cnn.com/2022/11/10/politics/bush-zelensky-public-conversation/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221109170043-george-w-bush-zelensky-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-10T18:05:09Z",
+            "content": "Former US President George W. Bush will hold a public conversation with Ukrainian President Volodymyr Zelensky next week with the aim of underscoring the importance of the US continuing to support Uk\u2026 [+3572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff",
+            "title": "What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis",
+            "description": "Moscow orders humiliating retreat in Kherson; unprepared Russian conscripts die in their hundreds in attack; Ukraine maintains morale as winter bites<ul><li>See all our Ukraine war coverage</li></ul>Every week we wrap up the must-reads from our coverage of th\u2026",
+            "url": "https://www.theguardian.com/world/2022/nov/12/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis",
+            "urlToImage": "https://i.guim.co.uk/img/media/994a821d5d412d2c36c6921c5ecc7078f5a904bc/0_151_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a71a94a70978931c99bcef7caf37e3e8",
+            "publishedAt": "2022-11-11T19:00:19Z",
+            "content": "Every week we wrap up the must-reads from our coverage of the Ukraine war, from news and features to analysis, visual guides and opinion.\r\nRussia declares Kherson withdrawal\r\nPeter Beaumont and Pjotr\u2026 [+9540 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock",
+            "title": "What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis",
+            "description": "The aftermath of a missile strike in Poland; celebration in Kherson; Ukraine dominates the G20<ul><li>See all our Ukraine war coverage</li></ul>Every week we wrap up the must-reads from our coverage of the Ukraine war, from news and features to analysis and o\u2026",
+            "url": "https://www.theguardian.com/world/2022/nov/19/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis",
+            "urlToImage": "https://i.guim.co.uk/img/media/5ec80c133124ca2676e7ce5ea4c18bd3ec1d5359/0_219_3304_1983/master/3304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f98bb5ca07c7ea616a52ab994d4d9c5a",
+            "publishedAt": "2022-11-18T19:00:35Z",
+            "content": "Every week we wrap up the must-reads from our coverage of the Ukraine war, from news and features to analysis and opinion.\r\nMissile hits Poland\r\nA missile fell on the Polish village of Przewod\u00f3w, lan\u2026 [+9295 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oren Liebermann",
+            "title": "Top US general argues Ukraine may be in a position of strength to negotiate Russian withdrawal",
+            "description": "\u2022 Live Updates: NATO chief claims 'this is not Ukraine's fault' \n\u2022 Analysis: The world breathed a sigh of relief when a rocket blast in Poland turned out to be an accident\n\u2022 G20 leaders' declaration condemns war in Ukraine 'in the strongest terms' \n\u2022 Zelensky\u2026",
+            "url": "https://www.cnn.com/2022/11/16/politics/milley-ukraine-strength-russia/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116140223-03-milley-austin-presser-1116.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-16T23:04:42Z",
+            "content": "One week after saying there may be a window for peace talks to end the war in Ukraine, the top US general laid out a comprehensive list of Russias failures and suggested negotiations if they were to \u2026 [+3958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helen Sullivan",
+            "title": "Russia-Ukraine war live: blackouts likely across Ukraine until March, energy provider says",
+            "description": "Blackouts could last longer, depending on future Russian attacks<ul><li>Russia-Ukraine war at a glance</li></ul>Hello and welcome to our live coverage of the war in Ukraine. My name is Helen Sullivan and I\u2019ll be bringing you the lates for the next while.Ukrai\u2026",
+            "url": "https://www.theguardian.com/world/live/2022/nov/22/russia-ukraine-war-live-blackouts-likely-across-ukraine-until-march-energy-provider-says",
+            "urlToImage": "https://i.guim.co.uk/img/media/dffff70324ab93276dbbb1c3fe5b0035e3e9cce5/0_0_7985_4793/master/7985.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=ad9b461065a62110294eb820143eec04",
+            "publishedAt": "2022-11-22T05:43:28Z",
+            "content": "Hello and welcome to our live coverage of the war in Ukraine. My name is Helen Sullivan and Ill be bringing you the lates for the next while.\r\nUkrainians are most likely to live with blackouts at lea\u2026 [+2607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helen Sullivan",
+            "title": "Russia-Ukraine war live: Russia has installed rocket launchers at Zaporizhzhia nuclear power plant, says Ukraine",
+            "description": "While all six reactors have been shut down, move by Russia heightens fears of radiation dangers<ul><li>Russia-Ukraine war at a glance</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/live/2022/dec/09/russia-ukraine-war-live-russia-has-installed-rocket-launchers-at-zaporizhzhia-nuclear-power-plant-says-ukraine",
+            "urlToImage": "https://i.guim.co.uk/img/media/feb37ede90b4e644d0eb83d1336bf145801c41db/0_0_3500_2102/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=22fbedc5bf5738d0df620c5d28823db6",
+            "publishedAt": "2022-12-09T05:58:58Z",
+            "content": "This is the Guardians live coverage of the war in Ukraine with me, Helen Sullivan. Our top story this morning is that Russian forces have installed multiple rocket launchers at Ukraines shut-down Zap\u2026 [+4722 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helen Sullivan",
+            "title": "Russia-Ukraine war live: Blinken says US did not \u2018enable\u2019 Ukraine strikes inside Russia",
+            "description": "US secretary of state says it \u2018neither encouraged nor enabled\u2019 Ukraine to mount drone strikes deep inside Russia that damaged long-range bombers Continue reading...",
+            "url": "https://www.theguardian.com/world/live/2022/dec/07/russia-ukraine-war-live-blinken-says-us-did-not-enable-ukraine-strikes-inside-russia",
+            "urlToImage": "https://i.guim.co.uk/img/media/4e2143c259c0977520a135208682b75b02905003/0_122_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=88e0388b6bed175083d9c843a9198561",
+            "publishedAt": "2022-12-07T05:32:29Z",
+            "content": "Hello and welcome to the Guardians live coverage of the war in Ukraine. My name is Helen Sullivan and Ill be bringing you the latest news as it happens for the next few hours.<li>The US said Tuesday \u2026 [+3778 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Nato pledges to provide more weapons and fix power grid",
+            "description": "Millions of Ukrainians remain without power and water in freezing temperatures after Russian strikes.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63798506",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8DC3/production/_127819263_ukraine_air_defence.jpg",
+            "publishedAt": "2022-11-29T17:32:28Z",
+            "content": "Nato has pledged to give more weapons to Ukraine and help fix critical energy infrastructure badly damaged by massive Russian missile and drone strikes.\r\nAt a summit in Bucharest, the secretary gener\u2026 [+3797 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Most of Kyiv spends night without power after missiles",
+            "description": "Russian attacks on infrastructure are depriving Ukrainians of heat and water as winter sets in.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63740923",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7A68/production/_127763313_gettyimages-1245045777.jpg",
+            "publishedAt": "2022-11-24T09:35:19Z",
+            "content": "Around 70% of the Ukrainian capital remained without power on Thursday morning, as work continued to restore the city's water supply.\r\nRussian attacks on energy facilities have caused power cuts acro\u2026 [+2215 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": "Megan DeLaire",
+            "title": "When will Ukraine join NATO? - CTV News",
+            "description": "After Russia annexed four regions of Ukraine in September amid its ongoing invasion of the eastern European country, Ukraine announced it had signed an accelerated application to join the North Atlantic Treaty Organization. Will Ukraine become a NATO member a\u2026",
+            "url": "https://www.ctvnews.ca/world/why-is-it-taking-so-long-for-ukraine-to-join-nato-experts-weigh-in-1.6179328",
+            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.6179363.1670028917!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2022-12-04T13:00:00Z",
+            "content": "After Russia annexed four regions of Ukraine in September amid its ongoing invasion of the eastern European country, Ukraine announced it had signed an accelerated application to join the North Atlan\u2026 [+9180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff and agencies",
+            "title": "Russia-Ukraine war at a glance: what we know on day 280 of the invasion",
+            "description": "Nato doubles down on promise to one day include Ukraine in alliance; supplies to restore Ukraine\u2019s battered electricity grid running low <ul><li>See all our Ukraine war coverage</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/2022/nov/30/russia-ukraine-war-at-a-glance-what-we-know-on-day-280-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/8c29a8d85a3632382ad03161e3e138471ebb9fed/0_331_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6ba007f1b8d76f4421d5771ff177196c",
+            "publishedAt": "2022-11-30T00:58:55Z",
+            "content": "<li>Nato doubled down on Tuesday on its commitment to one day include Ukraine, a pledge that some officials and analysts believe helped prompt Russias invasion this year. The worlds largest security \u2026 [+5091 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff and agencies",
+            "title": "Russia-Ukraine war at a glance: what we know on day 287 of the invasion",
+            "description": "US says it did not \u2018enable\u2019 Ukraine to strike inside Russia; Kremlin says no prospect of peace talks \u2018at the moment\u2019<ul><li>See all our Ukraine war coverage</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/2022/dec/07/russia-ukraine-war-at-a-glance-what-we-know-on-day-287-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/aceeda25a6a7c4996f047dcbf200b0e1429bfae6/0_236_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e01594a2fc3322f4a3c917a64b3d816",
+            "publishedAt": "2022-12-07T00:08:31Z",
+            "content": "<li>A drone attack has set an oil storage tank on fire at an airfield in Kursk, the Russian regions governor, Roman Starovoyt, has said. Video footage posted on social media showed a large explosion \u2026 [+5205 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff",
+            "title": "Russia-Ukraine war at a glance: what we know on day 273 of the invasion",
+            "description": "G7 nears a Russian oil price cap; Ukraine setting up \u2018invincibility centres\u2019 with heat and power for winter<ul><li>See all our Ukraine coverage</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/2022/nov/23/russia-ukraine-war-at-a-glance-what-we-know-on-day-273-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/4427a61a7c8c6072c90987a54857b392b098b96a/0_63_8640_5184/master/8640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa625c631845dd906bd602a3c9c91531",
+            "publishedAt": "2022-11-23T01:05:36Z",
+            "content": "<li>The Group of Seven nations should soon announce the price cap on Russian oil exports and the coalition will probably adjust the level a few times a year rather than monthly, a senior US Treasury \u2026 [+4014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helen Sullivan",
+            "title": "Russia-Ukraine war live: US hands Raytheon $1.2bn Ukraine missile systems contract; 6 million without power as winter begins",
+            "description": "US Army has awarded contract for six additional National Advanced Surface-to-Air Missile Systems; winter officially begins for Ukraine amid mass power cuts<ul><li>Russia-Ukraine war at a glance</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/live/2022/dec/01/russia-ukraine-war-live-us-hands-raytheon-12bn-ukraine-missile-systems-contract-6-million-without-power-as-winter-begins",
+            "urlToImage": "https://i.guim.co.uk/img/media/ce2d01310a65e411e24d6194f95e851c54191689/0_35_4500_2700/master/4500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=1c3df49efbb1a09e888fcd00ae2a3ec3",
+            "publishedAt": "2022-12-01T05:42:30Z",
+            "content": "Hi, this is the Guardians live coverage of the war in Ukraine, with me, Helen Sullivan.In Washington, a $1.2bn contract for six National Advanced Surface-to-Air Missile Systems (Nasams) for Ukraine w\u2026 [+6930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock",
+            "title": "Russia-Ukraine war at a glance: what we know on day 265 of the invasion",
+            "description": "Zelenskiy says Ukraine\u2019s recapture of Kherson marks \u2018the beginning of the end of the war\u2019; UN calls for Russia to make reparations to Ukraine<ul><li>See all our Ukraine coverage</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/2022/nov/15/russia-ukraine-war-at-a-glance-what-we-know-on-day-265-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/4bf7704db59201276c79737032c6fb9787a41d22/0_459_6916_4150/master/6916.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=129c53e5acaf473b7039281e3d2d335a",
+            "publishedAt": "2022-11-15T00:50:59Z",
+            "content": "The US president, Joe Biden, and his Chinese counterpart, Xi Jinping, have reiterated their agreement that a nuclear war should never be fought, the White House said. Beijings readout from the long-a\u2026 [+341 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helen Sullivan",
+            "title": "Russia-Ukraine war live: Nato foreign ministers meet in Romania; US to announce \u2018substantial\u2019 aid",
+            "description": "Nato foreign ministers are meeting on Tuesday and Wednesday in Bucharest; US says aid will help Ukraine deal with damage to energy infrastructure<ul><li>Russia-Ukraine war at a glance</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/live/2022/nov/29/russia-ukraine-war-live-nato-foreign-ministers-meet-in-romania-us-to-announce-substantial-aid",
+            "urlToImage": "https://i.guim.co.uk/img/media/13a59c6e23d1f8b430c10e63b8c92948cc91393c/0_144_8192_4918/master/8192.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=83f9a2b37785c41733bfc6ace8d8e29a",
+            "publishedAt": "2022-11-29T05:39:57Z",
+            "content": "US to announce substantial aid as Nato foreign ministers meet in Romania\r\nThe United States is expected to announce substantial financial aid to Ukraine on Tuesday to help it deal with the damage cau\u2026 [+7324 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Ukraine: 'The Russians are gone but I still live in my cellar'",
+            "description": "Although their city is no longer occupied, Ukrainians like Lubov are still having to hide from shelling.",
+            "url": "https://www.bbc.co.uk/news/av/world-europe-63655750",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/791E/production/_127660013_p0dgp8kn.jpg",
+            "publishedAt": "2022-11-19T01:05:21Z",
+            "content": "For many Ukrainians living in recently liberated cities, life is still a constant struggle, as cold weather brings tougher conditions. \r\nIn Lyman, in the Donetsk region, people like Lubov are still h\u2026 [+129 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Bodies found as reports of Russian atrocities in Kherson",
+            "description": "The BBC speaks to two people held by Russians in Kherson, amid fresh reports of atrocities there.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63659824",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/647E/production/_127662752_ksbxzxwq.jpg",
+            "publishedAt": "2022-11-17T09:59:06Z",
+            "content": "Ukraine says it has found the bodies of 63 civilians near the recently liberated city of Kherson bearing signs of torture. Russia has repeatedly denied committing atrocities in its invasion. But in K\u2026 [+4263 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: EU set to approve cap on price of Russian oil",
+            "description": "The European Union agrees a cap of $60 a barrel on exported Russian crude, after Poland gave its backing.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63840412",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/08B3/production/_127872220_gettyimages-1239069485.jpg",
+            "publishedAt": "2022-12-02T17:41:54Z",
+            "content": "The European Union looks set to approve a cap on the price of Russian oil after Poland gave its backing.\r\nThe plan, which stops countries paying more than $60 (57; \u00a348) a barrel, needed the agreement\u2026 [+1468 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bdawson@insider.com (Bethany Dawson)",
+            "title": "Ukrainians spend the weekend celebrating the liberation of Kherson with hugs, flags, and sparkling wine",
+            "description": "Announcing the liberation of Kherson, President Zelenskyy said that \"hope for Ukraine is always justified - and Ukraine always returns its own.\"",
+            "url": "https://www.businessinsider.com/photos-ukrainians-spend-weekend-celebrating-the-liberation-of-kherson-2022-11",
+            "urlToImage": "https://i.insider.com/63712e62951bdc00182ddc85?width=1200&format=jpeg",
+            "publishedAt": "2022-11-13T18:08:56Z",
+            "content": "On March 2 2022, the Ukrainian city of Kherson fell to Russian forces. Now, over eight months later, Ukrainians have spent their weekend celebrating that Russian forces have now withdrawn from the ci\u2026 [+1004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Patrick Wintour Diplomatic editor in Bali",
+            "title": "\u2018China can play mediating role\u2019: Macron to visit Xi Jinping over war in Ukraine",
+            "description": "French president believes China can help push Russia to de-escalate Ukraine war<ul><li>Russia-Ukraine war \u2013 latest news updates</li></ul>The French president, Emmanuel Macron, has said he intends to visit Beijing in the new year and believes his Chinese count\u2026",
+            "url": "https://www.theguardian.com/world/2022/nov/16/emmanuel-macron-visit-xi-jinping-ukraine-china-mediating-role",
+            "urlToImage": "https://i.guim.co.uk/img/media/8b4a5bf74ba2514189f02eea667588d8cd6e80c1/0_176_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bcc3e63a35ae032c14d6dd142ade747e",
+            "publishedAt": "2022-11-16T17:04:32Z",
+            "content": "The French president, Emmanuel Macron, has said he intends to visit Beijing in the new year and believes his Chinese counterpart, Xi Jinping, can play a mediating role that prevents a resumption of l\u2026 [+4754 chars]"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "Dylan Robertson",
+            "title": "Melanie Joly unveils sanctions, $500-million for Ukraine military at G20 - The Globe and Mail",
+            "description": "<ol><li>Melanie Joly unveils sanctions, $500-million for Ukraine military at G20\u00a0\u00a0The Globe and Mail\r\n</li><li>Canada announces additional $500M in military aid to Ukraine, adds 23 names to sanctions list\u00a0\u00a0CBC News\r\n</li><li>Canada gives Ukraine $500mln, sanc\u2026",
+            "url": "https://www.theglobeandmail.com/politics/article-melanie-joly-unveils-sanctions-500-million-for-ukraine-military-at-g20-2/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/wrx9fZJ6UEr2G2khCAQUQj-DVKc=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/2PN4VCJJ4ZPLBOCDW4OWFC4UYM.JPG",
+            "publishedAt": "2022-11-14T11:27:01Z",
+            "content": "Minister of Foreign Affairs Melanie Joly speaks to reporters during the G20 leaders summit in Nusa Dua, Bali, Indonesia, on Nov. 14.Sean Kilpatrick/The Canadian Press\r\nCanada is pledging $500-million\u2026 [+862 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Kremlin appears to scale back its ambitions in Ukraine - Reuters",
+            "description": "Russia said on Thursday that it was still set on securing at least the bulk of the parts of east and south Ukraine that it has claimed as its own, but appeared to give up on seizing other areas in the west and northeast that Ukraine has recaptured.",
+            "url": "https://www.reuters.com/world/europe/kremlin-appears-scale-back-its-ambitions-ukraine-2022-12-08/",
+            "urlToImage": "https://www.reuters.com/resizer/n4s3enUvRBGiWqDplktwPuJEXTQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HLXJRFAFWFOTXOOJIKLDYLUPWY.jpg",
+            "publishedAt": "2022-12-08T13:24:00Z",
+            "content": "LONDON, Dec 8 (Reuters) - Russia said on Thursday that it was still set on securing at least the bulk of the parts of east and south Ukraine that it has claimed as its own, but appeared to give up on\u2026 [+3034 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine faces 'significant' power shortages after Russian attacks - Reuters",
+            "description": "Ukraine enforced new emergency power cuts on Thursday as it tried to repair energy infrastructure damaged in Russian <a href=\"/world/europe/putin-acknowledges-russias-war-ukraine-could-be-long-one-2022-12-07/\">air strikes</a> which the national grid operator \u2026",
+            "url": "https://www.reuters.com/world/europe/ukraine-faces-significant-power-shortages-after-russian-attacks-2022-12-08/",
+            "urlToImage": "https://www.reuters.com/resizer/KIn7wFLOemq4SqJworDBxql8vo4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IFANLOIFOVLB7FHSPMFWW56AQE.jpg",
+            "publishedAt": "2022-12-08T10:20:00Z",
+            "content": "KYIV, Dec 8 (Reuters) - Ukraine enforced new emergency power cuts on Thursday as it tried to repair energy infrastructure damaged in Russian air strikes which the national grid operator said had caus\u2026 [+2160 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Analysis: Russia's planned Kherson retreat a double-edged sword for Kyiv - Reuters",
+            "description": "When Ukrainian President Volodymyr Zelenskiy addressed his nation after Russia said it planned to <a href=\"/world/europe/us-urges-ukraine-be-open-talks-with-russia-washington-post-2022-11-06/\">withdraw its forces</a> from the west bank of the River Dnipro in \u2026",
+            "url": "https://www.reuters.com/world/europe/russias-planned-kherson-retreat-double-edged-sword-kyiv-2022-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/U3CpMN-kCb0SAb0bxobhc0ha_Ho=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C6PUKPS7QBLCXMDPY2I5YGLV3Y.jpg",
+            "publishedAt": "2022-11-10T19:10:00Z",
+            "content": "LONDON, Nov 10 (Reuters) - When Ukrainian President Volodymyr Zelenskiy addressed his nation after Russia said it planned to withdraw its forces from the west bank of the River Dnipro in southern Ukr\u2026 [+5806 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Moldova's PM nominates new economy minister as problems mount - Reuters.com",
+            "description": "Moldova's prime minister proposed senior parliamentarian Dumitru Alaiba as economy minister on Wednesday as the country tries to deal with the impact of the war in <a href=\"/world/europe/ukraine-hails-chinas-opposition-nuclear-threats-2022-11-15/\">Ukraine</a>\u2026",
+            "url": "https://www.reuters.com/world/europe/moldovas-pm-nominates-new-economy-minister-problems-mount-2022-11-16/",
+            "urlToImage": "https://www.reuters.com/resizer/O-wjaX2AMs5vmt2OGaLoBfHl5fg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/G6FPWPMZC5P6VDCH6ZHBRHMRJ4.jpg",
+            "publishedAt": "2022-11-16T14:37:00Z",
+            "content": "CHISINAU, Nov 16 (Reuters) - Moldova's prime minister proposed senior parliamentarian Dumitru Alaiba as economy minister on Wednesday as the country tries to deal with the impact of the war in Ukrain\u2026 [+1113 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "ArcelorMittal plant in Ukraine aims to resume production as soon as possible - Reuters",
+            "description": "The ArcelorMittal Kryvyi Rih <a href=\"https://www.reuters.com/companies/KSTL.PFT\" target=\"_blank\">(KSTL.PFT)</a> steel works in Ukraine said on Friday it hoped \"as soon as possible\" to resume production that has been suspended because of a lack of electricity\u2026",
+            "url": "https://www.reuters.com/markets/commodities/arcelormittal-plant-ukraine-aims-resume-production-soon-possible-2022-11-25/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=122",
+            "publishedAt": "2022-11-25T14:18:00Z",
+            "content": "KYIV, Nov 25 (Reuters) - The ArcelorMittal Kryvyi Rih (KSTL.PFT) steel works in Ukraine said on Friday it hoped \"as soon as possible\" to resume production that has been suspended because of a lack of\u2026 [+1794 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian shelling kills at least six in east Ukraine - president - Reuters",
+            "description": "Russian shelling killed at least six people and set buildings ablaze in the town of Kurakhove in eastern <a href=\"/world/europe/ukraine-appears-show-ability-strike-far-inside-russia-2022-12-06/\">Ukraine</a> on Wednesday, President Volodymyr Zelenskiy said.",
+            "url": "https://www.reuters.com/world/europe/russian-shelling-kills-least-six-east-ukraine-president-2022-12-07/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=123",
+            "publishedAt": "2022-12-07T15:22:00Z",
+            "content": "KYIV, Dec 7 (Reuters) - Russian shelling killed at least six people and set buildings ablaze in the town of Kurakhove in eastern Ukraine on Wednesday, President Volodymyr Zelenskiy said.\r\nKyrylo Tymo\u2026 [+795 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Mayumi Maruyama, Nectar Gan",
+            "title": "Putin will not attend G20 summit in person, Russian embassy says",
+            "description": "Russian President Vladimir Putin will not attend in person a summit of leaders from the Group of 20 nations in Bali next week, the Russian embassy in Indonesia told CNN on Thursday.",
+            "url": "https://www.cnn.com/2022/11/09/asia/putin-g20-bali-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221109091059-pm-digital-putin.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-10T04:19:55Z",
+            "content": "Russian President Vladimir Putin will not attend in person a summit of leaders from the Group of 20 nations in Bali next week, the Russian embassy in Indonesia told CNN on Thursday.\r\nPutin will be re\u2026 [+1283 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Putin vows to continue hitting Ukraine's power grid",
+            "description": "The Russian president has vowed to continue attacking Ukraine's energy infrastructure.",
+            "url": "https://www.bbc.co.uk/news/world-europe-63907803",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12D4D/production/_127933177_mediaitem127933173.jpg",
+            "publishedAt": "2022-12-08T15:35:17Z",
+            "content": "Vladimir Putin has vowed to continue attacking Ukraine's energy infrastructure despite millions being left without electricity or water.\r\n\"Yes, we do that. But who started it?\" the Russian president \u2026 [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock",
+            "title": "Russia-Ukraine war live news: blasts heard in Crimea; Putin trying to \u2018freeze Ukraine into submission\u2019, US envoy says",
+            "description": "Explosions reported in occupied town of Dzhankoi; UN security council warns against risks of \u2018catastrophic spillover\u2019 of war<ul><li>At a glance: what we know on day 267 of the invasion</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/live/2022/nov/17/russia-ukraine-war-live-news-blasts-heard-in-crimea-putin-trying-to-freeze-ukraine-into-submission-us-envoy-says",
+            "urlToImage": "https://i.guim.co.uk/img/media/ad70da2a9c1b73e6958a670c7fc1e9573918f1d2/0_173_5197_3119/master/5197.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=554bfa375652082805eec494069a9005",
+            "publishedAt": "2022-11-17T06:11:30Z",
+            "content": "Hello and welcome back to the Guardians live coverage of the war in Ukraine. Im Samantha Lock and Ill be bringing you all the latest developments as they unfold over the next few hours.The barrage of\u2026 [+4574 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Christine Kearney",
+            "title": "Russia-Ukraine war: US hails \u2018extraordinary victory\u2019 for Ukraine in Kherson; Kyiv warns Moscow \u2018mobilising more conscripts\u2019 - live",
+            "description": "Ukraine foreign minister Dmytro Kuleba tells Asean leaders Kyiv still sees \u2018Russia mobilising more conscripts and bringing more weapons\u2019 Continue reading...",
+            "url": "https://www.theguardian.com/world/live/2022/nov/12/russia-ukraine-war-us-hails-extraordinary-victory-for-ukraine-in-kherson-kyiv-warns-moscow-mobilising-more-conscripts-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/ebd6da8d01f2007b9d75f1d0e5387fe4592966c2/0_0_3283_1970/master/3283.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=bdf5be94e8eb5e28b4fc3dcf5ee1a73c",
+            "publishedAt": "2022-11-12T07:11:28Z",
+            "content": "Im Christine Kearney and Ill be bringing you the latest developments. Its about 9am in Kyiv, heres where things stand:<li>Ukrainians in Kherson city are celebratingafter the arrival of Ukrainian sold\u2026 [+4129 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amed Khan",
+            "title": "Opinion: The one light Putin cannot snuff out",
+            "description": "The contrast couldn't have been more stark. Last week, as fires crackled in homes across America and families gathered to give thanks, half-a-world away a dictator sent missiles raining down on Ukrainian neighborhoods, cutting power in his quest to steal thei\u2026",
+            "url": "https://www.cnn.com/2022/11/29/opinions/kherson-ukraine-putin-heroism-darkness-khan/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221123155525-03-kherson-liberation.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-29T08:52:09Z",
+            "content": "Editors Note: Amed Khan is a human rights advocate, political activist and philanthropist whose board memberships include the Quincy Institute for Responsible Statecraft and the International Refugee\u2026 [+6023 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Helen Sullivan",
+            "title": "What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis",
+            "description": "Winter sets in; explosions rock Russia and US basketball star Brittney Griner released in prisoner swap for arms dealer Viktor Bout<ul><li>See all our Ukraine war coverage</li></ul>Every week we wrap up the must-reads from our coverage of the Ukraine war, fro\u2026",
+            "url": "https://www.theguardian.com/world/2022/dec/10/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis",
+            "urlToImage": "https://i.guim.co.uk/img/media/237c17afc41fbe8d60074385575a89b153e06336/0_389_5758_3454/master/5758.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11a87d453ef982248e91512f50597837",
+            "publishedAt": "2022-12-09T18:00:41Z",
+            "content": "Every week we wrap up the must-reads from our coverage of the Ukraine war, from news and features to analysis and opinion.\r\nA family prepares for winter in eastern Ukraine\r\nAlina Trebushnikova, 31, i\u2026 [+7118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff",
+            "title": "What happened in the Russia-Ukraine war this week? Catch up with the must-read news and analysis",
+            "description": "Utility workers rush to repair national grid despite fears of \u2018double-tap\u2019 attacks; what happened to the Ukrainians defending Snake Island<ul><li>See all our Ukraine war coverage</li></ul>Every week we wrap up the must-reads from our coverage of the Ukraine w\u2026",
+            "url": "https://www.theguardian.com/world/2022/nov/26/what-happened-in-the-russia-ukraine-war-this-week-catch-up-with-the-must-read-news-and-analysis",
+            "urlToImage": "https://i.guim.co.uk/img/media/f09748c79537ee7cfbcf29a787a2f7a2df92318b/0_538_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb56128ed64a78dbc191ef0dc7b5011d",
+            "publishedAt": "2022-11-25T18:00:04Z",
+            "content": "Every week we wrap up the must-reads from our coverage of the Ukraine war, from news and features to analysis and opinion.\r\nDevastating wave of attacks\r\nRussia fired dozens of missiles at Ukraine in \u2026 [+7658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Samantha Lock and agencies",
+            "title": "Russia-Ukraine war at a glance: what we know on day 282 of the invasion",
+            "description": "Joe Biden says he is prepared to speak to Vladimir Putin if the Russian president is willing to end the war; Ukraine estimates its armed forces have lost up to 13,000 soldiers so far <ul><li>See all our Ukraine war coverage</li></ul> Continue reading...",
+            "url": "https://www.theguardian.com/world/2022/dec/02/russia-ukraine-war-at-a-glance-what-we-know-on-day-282-of-the-invasion",
+            "urlToImage": "https://i.guim.co.uk/img/media/728edbd92bdbb1d393264d37e61c6f087b6046ef/0_232_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f43e4984f3bc64c12d63be82f4d2e35",
+            "publishedAt": "2022-12-02T00:49:21Z",
+            "content": "Ukraines armed forces have lost somewhere between 10,000 and 13,000 soldiers so far in the war against Russia, presidential adviser Mykhailo Podolyak told a Ukrainian television network on Thursday. \u2026 [+195 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden, Sunak discuss Ukraine, China, N.Ireland - White House - Reuters",
+            "description": "U.S. President Joe Biden and British Prime Minister Rishi Sunak affirmed their strong support for Ukraine on Wednesday as they met for talks that included the blast that took place in Poland and challenges posed by China, the White House said.",
+            "url": "https://www.reuters.com/world/biden-sunak-discuss-ukraine-china-nireland-white-house-2022-11-16/",
+            "urlToImage": "https://www.reuters.com/resizer/aXDPc7qee0lZMOZZESboe4BftoE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5J7OEKKGTZKIZPB6EINW4W3JHI.jpg",
+            "publishedAt": "2022-11-16T06:29:00Z",
+            "content": "Nov 16 (Reuters) - U.S. President Joe Biden and British Prime Minister Rishi Sunak affirmed their strong support for Ukraine on Wednesday as they met for talks that included the blast that took place\u2026 [+808 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Germany backs security zone around Ukraine nuclear power plant - Reuters",
+            "description": "Germany supports the establishment of a security zone around Ukraine's Zaporizhzhia nuclear power plant, Foreign Minister Annalena Baerbock said on Tuesday after talks with the head of the International Atomic Energy Agency (IAEA), Rafael Grossi.",
+            "url": "https://www.reuters.com/world/europe/germany-backs-security-zone-around-ukraine-nuclear-power-plant-2022-11-15/",
+            "urlToImage": "https://www.reuters.com/resizer/E9Evil8UK-2GK9-0b0GAA3EqYWc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZFCLGI7WVLBDDO2K5MKLIAOSQ.jpg",
+            "publishedAt": "2022-11-15T16:07:00Z",
+            "content": "BERLIN, Nov 15 (Reuters) - Germany supports the establishment of a security zone around Ukraine's Zaporizhzhia nuclear power plant, Foreign Minister Annalena Baerbock said on Tuesday after talks with\u2026 [+612 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine receives 2.5 billion euros in assistance from EU - Reuters",
+            "description": "Ukraine received a new 2.5 billion euro ($2.57 billion) tranche of macro-financial assistance from the European Union on Tuesday, Finance Minister Serhiy Marchenko said.",
+            "url": "https://www.reuters.com/world/europe/ukraine-receives-25-billion-euros-assistance-eu-2022-11-22/",
+            "urlToImage": "https://www.reuters.com/resizer/NO9XD--Ex2wPLuwXEdQlfZAMoTA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DJKOXMT7RFOTNMFUSPO2LU4W7E.jpg",
+            "publishedAt": "2022-11-22T12:22:00Z",
+            "content": "KYIV, Nov 22 (Reuters) - Ukraine received a new 2.5 billion euro ($2.57 billion) tranche of macro-financial assistance from the European Union on Tuesday, Finance Minister Serhiy Marchenko said.\r\n\"Th\u2026 [+428 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia says Ukraine shells Zaporizhzhia nuclear power plant - TASS - Reuters",
+            "description": "Ukraine's Russian-controlled Zaporizhzhia nuclear power plant has come under Ukrainian shelling but there has been no radiation leak detected, TASS reported on Sunday citing an official from Russian nuclear power operator Rosenergoatom.",
+            "url": "https://www.reuters.com/world/europe/russia-says-ukraine-shells-zaporizhzhia-nuclear-power-plant-tass-2022-11-20/",
+            "urlToImage": "https://www.reuters.com/resizer/ZUKTqkST2qEsw__kcjtfvVo95HQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J4IVU5JOU5MKND4BV7KENOZHUE.jpg",
+            "publishedAt": "2022-11-20T10:35:00Z",
+            "content": "Nov 20 (Reuters) - Ukraine's Russian-controlled Zaporizhzhia nuclear power plant has come under Ukrainian shelling but there has been no radiation leak detected, TASS reported on Sunday citing an off\u2026 [+831 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia should use advanced weapons in Ukraine, Shoigu says - Reuters.com",
+            "description": "Russia's defence minister said on Wednesday that the armed forces should use new advanced weapons systems in the conflict in Ukraine.",
+            "url": "https://www.reuters.com/world/europe/russia-should-use-advanced-weapons-ukraine-shoigu-says-2022-11-30/",
+            "urlToImage": "https://www.reuters.com/resizer/799_Gzy8FQtzBpPp5AbMpupTFwA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HCGJNYBD55L7LLREZJGDFN2AF4.jpg",
+            "publishedAt": "2022-11-30T15:21:00Z",
+            "content": "MOSCOW, Nov 30 (Reuters) - Russia's defence minister said on Wednesday that the armed forces should use new advanced weapons systems in the conflict in Ukraine.\r\n\"It is necessary to continue the mode\u2026 [+1115 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Canada to provide C$15 million for Ukraine demining - Reuters",
+            "description": "Canada on Monday said it will contribute C$15 million ($11.04 million) for equipment needed by Ukraine for humanitarian clearing of landmines.",
+            "url": "https://www.reuters.com/world/canada-provide-c15-million-ukraine-demining-2022-12-06/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=122",
+            "publishedAt": "2022-12-06T00:33:00Z",
+            "content": "Dec 5 (Reuters) - Canada on Monday said it will contribute C$15 million ($11.04 million) for equipment needed by Ukraine for humanitarian clearing of landmines.\r\nThe assistance will help fund detecti\u2026 [+1301 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russia's Shoigu says Ukraine committing 'nuclear terrorism' over Zaporizhzhia - Reuters",
+            "description": "Russian Defence Minister Sergei Shoigu said on Tuesday that Ukraine was continuing to shell the Zaporizhzhia nuclear power plant, deliberately creating the threat of a possible nuclear catastrophe.",
+            "url": "https://www.reuters.com/world/europe/russias-shoigu-says-ukraine-committing-nuclear-terrorism-over-zaporizhzhia-2022-12-06/",
+            "urlToImage": "https://www.reuters.com/resizer/-xRuWUDlMApnfKgBhWESQqpWToM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56AHPJWYF5IKDGQS4NKFU3TR4Y.jpg",
+            "publishedAt": "2022-12-06T10:10:00Z",
+            "content": "Dec 6 (Reuters) - Russian Defence Minister Sergei Shoigu said on Tuesday that Ukraine was continuing to shell the Zaporizhzhia nuclear power plant, deliberately creating the threat of a possible nucl\u2026 [+1723 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Eastward Yamal-Europe and Ukraine gas flows dip - Reuters",
+            "description": "Eastbound gas flows fell slightly early on Thursday on the Yamal-Europe pipeline to Poland from Germany, as did flows of Russian gas through Ukraine into Slovakia, pipeline operators data showed.",
+            "url": "https://www.reuters.com/business/energy/eastward-yamal-europe-ukraine-gas-flows-dip-2022-12-08/",
+            "urlToImage": "https://www.reuters.com/resizer/LjbyHEx6oKPt7z3iM57oIcxfYks=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LDZ5I7SGJRLZTLRWJQ7EKML2UM.jpg",
+            "publishedAt": "2022-12-08T08:15:00Z",
+            "content": "Dec 8 (Reuters) - Eastbound gas flows fell slightly early on Thursday on the Yamal-Europe pipeline to Poland from Germany, as did flows of Russian gas through Ukraine into Slovakia, pipeline operator\u2026 [+1179 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Elizabeth McCauley,Grant Tyler)",
+            "title": "Making eyeglasses from coffee grounds in Ukraine",
+            "description": "Most used coffee grounds go to landfills. This Ukrainian startup is making them into eyeglass frames and cases, despite the ongoing war with Russia.",
+            "url": "https://www.businessinsider.com/making-eyeglasses-from-coffee-grounds-in-ukraine-2022-11",
+            "urlToImage": "https://i.insider.com/6372d921b9d3990018372e08?width=1200&format=jpeg",
+            "publishedAt": "2022-11-15T16:03:32Z",
+            "content": "People drink billions of cups of coffee every day, and most of the used grounds end up in landfills. This Ukrainian startup is using some of those leftovers to make eyeglass frames and cases. We visi\u2026 [+63 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine races to restore power after Russian missile barrage - Reuters.com",
+            "description": "Power was fully restored on Wednesday in seven Ukrainian regions, including in the capital Kyiv, less that 24 hours after a <a href=\"/world/europe/two-explosions-heard-ukraines-capital-smoke-rising-over-city-2022-11-15/\">Russian missile barrage</a> on energy \u2026",
+            "url": "https://www.reuters.com/world/europe/ukraine-races-restore-power-after-russian-missile-barrage-2022-11-16/",
+            "urlToImage": "https://www.reuters.com/resizer/_K7Q8Q_jRT1mBer_euLodHQmCxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IFSIYCWHXJN7ZN4MQDVWDM6RKM.jpg",
+            "publishedAt": "2022-11-16T10:46:00Z",
+            "content": "KYIV, Nov 16 (Reuters) - Power was fully restored on Wednesday in seven Ukrainian regions, including in the capital Kyiv, less that 24 hours after a Russian missile barrage on energy infrastructure a\u2026 [+1676 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Canada gives Ukraine $500mln, sanctions more Russians -statement - Reuters",
+            "description": "Canada will provide Ukraine with another $500 million in additional military assistance in addition to sanctions on another nearly two dozen Russians, Prime Minister Justin Trudeau said in a statement on Monday amid the G20 summit.",
+            "url": "https://www.reuters.com/world/europe/canada-gives-ukraine-500mln-sanctions-more-russians-statement-2022-11-14/",
+            "urlToImage": "https://www.reuters.com/resizer/Ap502jkLBCTOLiYags70DXirBBk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7MSAZYQT3FNO3HWNAGBMM2OXHI.jpg",
+            "publishedAt": "2022-11-14T14:51:00Z",
+            "content": "Nov 14 (Reuters) - Canada will provide Ukraine with another $500 million in additional military assistance in addition to sanctions on another nearly two dozen Russians, Prime Minister Justin Trudeau\u2026 [+631 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine working with allies on 'integrated' air defence system - Reuters.com",
+            "description": "Ukrainian Defence Minister Oleksii Reznikov said on Wednesday that Kyiv was working with international allies on an \"integrated and echeloned\" air defence system.",
+            "url": "https://www.reuters.com/world/europe/ukraine-working-with-allies-integrated-air-defence-system-2022-11-16/",
+            "urlToImage": "https://www.reuters.com/resizer/fIDmjReD4eOEHR8UBBoLvjHSRs0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PCFC3QXJ3FJOPFUXUBOO5Q3QLY.jpg",
+            "publishedAt": "2022-11-16T16:04:00Z",
+            "content": "KYIV, Nov 16 (Reuters) - Ukrainian Defence Minister Oleksii Reznikov said on Wednesday that Kyiv was working with international allies on an \"integrated and echeloned\" air defence system.\r\nReznikov g\u2026 [+477 chars]"
+        }
+    ]
+}

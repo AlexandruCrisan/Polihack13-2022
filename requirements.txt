@@ -5,3 +5,4 @@ geopy
 python-dotenv
 python-google-places
 requests
+newsapi-python

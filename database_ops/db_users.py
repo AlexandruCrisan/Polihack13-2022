@@ -27,3 +27,19 @@ class DB_USERS():
         response = self.__userTable.scan(AttributesToGet=['id', 'name', 'profile_picture', 'profile_picture_extension', 'role'])
         sorted(response, key=lambda x:x[1])
         return response
+
+    def updateDonations(self, username: str, donations: dict):
+        response = self.__userTable.update_item(
+            Key={
+                'username': username
+            },
+            UpdateExpression="set #d=:don",
+            ExpressionAttributeValues={
+                ':don': donations,
+            },
+            ExpressionAttributeNames={
+                "#d": "donations",
+            },
+            ReturnValues="UPDATED_NEW"
+        )
+        return response

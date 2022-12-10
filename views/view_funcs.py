@@ -1,21 +1,29 @@
+import datetime
+import json
 import os
 
 import geopy.distance
 from dotenv import load_dotenv
 from flask import Blueprint, request
 from googleplaces import GooglePlaces, types
+from newsapi import NewsApiClient
 
+import utils as ut
+from database_ops.db_cash_bank import DB_CASH_BANK
 from database_ops.db_homes import DB_HOMES
 
 urlFuncs = Blueprint('views', __name__)
 
 load_dotenv()
 
-API_KEY = os.getenv('MAPS_API_KEY')
+MAPS_API_KEY = os.getenv("MAPS_API_KEY")
+NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 
-google_places = GooglePlaces(API_KEY)
+google_places = GooglePlaces(MAPS_API_KEY)
 
 homes_table = DB_HOMES()
+bank_table = DB_CASH_BANK()
+newsApi = NewsApiClient(api_key=NEWS_API_KEY)
 
 def respects_filters(home, filters):
   try:
@@ -71,6 +79,55 @@ def getHomes():
 
   return response
 
+########################################################## Request Donations
+@urlFuncs.route('/donations/money', methods=['GET'])
+def getDonationMoney():
+  refugee_username = request.args.get("username")
+  cash_sum = request.args.get("sum")
   
+  return bank_table.extract_funds(refugee_username, cash_sum)
+
+@urlFuncs.route('/donations/money', methods=['POST'])
+def sendDonationMoney():
+  donation = request.args.get("donation")
+  
+  return bank_table.add_funds(int(donation))
+  
+
+@urlFuncs.route('/donations/food', methods=['GET'])
+def getDonationFood():
+  refugee_username = request.args.get("username")
+  return refugee_username
+
+@urlFuncs.route('/donations/clothes', methods=['GET'])
+def getDonationClothes():
+  refugee_username = request.args.get("username")
+  return refugee_username
+
+
+########################################################## Scrape News
+
+@urlFuncs.route('/war_news', methods=['GET'])
+def getWarNews():
+  response = {}
+
+  current_date = datetime.datetime.today()
+  previous_date = datetime.datetime.today() - datetime.timedelta(days=1)
+
+  print(f"NOW: {current_date} | THEN: {previous_date}")
+  # news_dict = newsApi.get_top_headlines(language='en', q="ukraine", page_size=100)
+  news_dict = newsApi.get_everything(language='en', q="ukraine", page_size=100)
+  # print(news_dict)
+  ut.createJSONFileLocally(json.dumps(news_dict, indent=4))
+  nonYouTubeArticles = ut.getNonYouTube(news_dict)
+  # print(f"NON YOUTUBE : {nonYouTubeArticles}")
+  # createJSONFileLocally(json.dumps(nonYouTubeArticles, indent=4))
+
+  ut.removeSourceFromName(nonYouTubeArticles)
+  ut.removeCharsNumber(nonYouTubeArticles)
+  ut.removeUnicodeChars(nonYouTubeArticles)
+
+  return nonYouTubeArticles
+
 
   

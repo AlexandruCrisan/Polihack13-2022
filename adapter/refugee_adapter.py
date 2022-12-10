@@ -12,6 +12,7 @@ class RefugeeAdapter():
                 'nationality': o.get_nationality(),
                 'location': o.get_location(),
                 'skills': o.get_skills(),
+                'donations': o.get_donations(),
                 'account_type': type(o).__name__
             }
             return Item

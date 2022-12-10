@@ -10,6 +10,12 @@ urlUser = Blueprint('views', __name__)
 
 users_table = DB_USERS()
 
+dons = {
+  "money": 0,
+  "food": 0,
+  "clothes": 0
+}
+
 @urlUser.route('/users/test', methods=['GET'])
 def test():
   return "MERGE BINE"
@@ -48,6 +54,6 @@ def postProvider(username: str):
 def postRefugee(username: str):
   user_json = request.json
 
-  refugee_entity = Refugee(username, user_json["password"], user_json["name"], user_json["phone_number"], user_json["nationality"], user_json["location"], user_json["skills"])
+  refugee_entity = Refugee(username, user_json["password"], user_json["name"], user_json["phone_number"], user_json["nationality"], user_json["location"], user_json["skills"], dons)
   return users_table.addUser(RefugeeAdapter.toJSON(refugee_entity) )
 

@@ -19,7 +19,7 @@ app.register_blueprint(urlJobs, name='Jobs')
 print("*****************************************************************************************************************************")
 
 # geolocator = Nominatim(user_agent="geoapiExercises")
-# address = geolocator.reverse("46.7664913,23.5920942")
+# address = geolocator.reverse("46.747350,23.603630")
 # address = address.raw["address"]
 # print(address)
 

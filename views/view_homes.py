@@ -1,5 +1,3 @@
-import random
-
 import geopy.distance
 from flask import Blueprint, request
 
@@ -40,4 +38,13 @@ def getDistanceToHome(home_id: str):
 
   distance = geopy.distance.geodesic(c1, c2).km 
   return {"distance": distance}
+
+  """
+  {
+    "lat": 23.3,
+    "lng": 22.4,
+    "max_residents": 4,
+    "owner_username": "username"
+  }
+  """
 

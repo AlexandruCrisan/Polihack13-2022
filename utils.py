@@ -1,5 +1,21 @@
+import os
 import random
 
+from dotenv import load_dotenv
+
+# from googlemaps.client import googlemaps
+
+load_dotenv()
+
+MAPS_API_KEY = os.getenv("MAPS_API_KEY")
+
+
+
+# def address_to_coords(address):
+#   gmaps = GoogleMaps(MAPS_API_KEY)
+#   lat, lng = gmaps.address_to_latlng(address)
+
+#   return {"lat": lat, "lng": lng}
 
 def random_between(x, y):
   return random.randint(x, y)

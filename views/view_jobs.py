@@ -23,4 +23,14 @@ def getJob(job_id: str):
 def deleteJob(home_id: str):
   return jobs_table.delete_job(home_id)
 
+  """
+  {
+    "title": "jobTitle",
+    "description": "jobDescription",
+    "city": "jobCity",
+    "min_salary": 12000,
+    "username": "username"
+  }
+  """
+
 

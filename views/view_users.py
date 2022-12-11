@@ -54,6 +54,31 @@ def postProvider(username: str):
 def postRefugee(username: str):
   user_json = request.json
 
-  refugee_entity = Refugee(username, user_json["password"], user_json["name"], user_json["phone_number"], user_json["nationality"], user_json["location"], user_json["skills"], dons)
+
+  refugee_entity = Refugee(username, user_json["password"], user_json["name"], user_json["email"], user_json["phone_number"], user_json["nationality"], user_json["location"], user_json["skills"], user_json["address"], dons)
   return users_table.addUser(RefugeeAdapter.toJSON(refugee_entity) )
 
+  """
+  Refugee
+  {
+    "password": "userPassword",
+    "name": "userName",
+    "phone_number": "123",
+    "email": "userEmail",
+    "nationality": "userNationality",
+    "location": {
+      "lat": 23.333,
+      "lng": 23.333
+    },
+    "address": "userAddress"
+    "skills": ["skill1", "skill2"]
+  }
+
+  Provider
+  {
+    "password": "userPassword",
+    "name": "userName",
+    "phone_number": "123",
+    "email": "userEmail"
+  }
+  """

@@ -7,3 +7,4 @@ python-google-places
 requests
 newsapi-python
 secure-smtplib
+googlemaps

@@ -12,6 +12,7 @@ class HomeAdapter():
                 'owner_username': o.get_owner_username(),
                 'street_name': o.get_street_name(),
                 'location_image': o.get_location_image(),
+                'new': o.get_new(),
             }
             return Item
         return None

@@ -90,9 +90,6 @@ def getHomes():
     print(f"{home['id']} -> {distance}")
     if distance <= radius and int(min_residents) <= int(home["max_residents"]):
       home["distance"] = float(int(distance*100) / 100)
-      home["new"] = 0
-      if ut.random_between(1, 5) == 1:
-        home["new"] = 1
 
       without_comma = home["street_name"].replace(',', '')
       home["google_maps"] = f"https://www.google.com/maps/place/{without_comma.replace(' ', '+')}/@{str(home['location']['lat'])},{str(home['location']['lng'])}"

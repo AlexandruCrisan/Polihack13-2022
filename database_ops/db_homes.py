@@ -41,5 +41,5 @@ class DB_HOMES():
         return response
     
     def get_all_homes(self):
-        response = self.__homeTable.scan(AttributesToGet=['id', 'location', 'max_residents', 'street_name', 'location_image'])
+        response = self.__homeTable.scan(AttributesToGet=['id', 'location', 'max_residents', 'street_name', 'location_image', 'new'])
         return response["Items"]

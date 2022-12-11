@@ -1,6 +1,7 @@
 import geopy.distance
 from flask import Blueprint, request
 
+import utils as ut
 from adapter.home_adapter import HomeAdapter
 from database_ops.db_homes import DB_HOMES
 from database_ops.db_users import DB_USERS
@@ -14,7 +15,9 @@ users_table = DB_USERS()
 @urlHomes.route('/homes/<string:home_id>', methods=['POST'])
 def addHome(home_id: str):
   home_json = request.json
-
+  home_json["new"] = 0
+  if ut.random_between(1, 5) == 1:
+    home_json["new"] = 1
   home_obj = Home(home_id, {"lat": float(home_json["lat"]), "lng": float(home_json["lng"])}, home_json["max_residents"], home_json["owner_username"])
   return homes_table.add_home(HomeAdapter.toJSON(home_obj))
 

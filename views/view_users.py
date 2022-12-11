@@ -24,7 +24,7 @@ def test():
 
 @urlUser.route('/login', methods=['GET'])
 def loginUser():
-  username = request.args.get("username")
+  username = request.args.get("username") 
   password = request.args.get("password")
   userJSON = users_table.get_user(username)
 
